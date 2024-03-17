@@ -1,10 +1,1 @@
-### Hi there 👋
-
-
-I am DTACat, I love cats and playing video games woth my non-existent friends.
-
-I also made this with my non-existent friends
-
-# Custom Effects And Decorations
-
-https://github.com/DTACat/Custom-Profile-Effects-Discord-Theme
+![Logo (33)](https://github.com/DTACat/DTACat/assets/141873540/db3e822b-49c0-42d2-99c7-336cafa7d441)
