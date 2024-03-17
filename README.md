@@ -16,4 +16,6 @@
 
 ### [Shop Archives](https://dtacat.github.io/Collectibles/) is a website that list (almost) every [Discord](https://discord.com) Collectible all the way back from 2022 to Now!
 
+### [Shop Archives](https://dtacat.github.io/Collectibles/) will be constantly updated so you wont miss out on all the new collectables.
+
 ![Logo (40)](https://github.com/DTACat/DTACat/assets/141873540/df299036-463e-4603-9ff8-6f6958103cbf)
