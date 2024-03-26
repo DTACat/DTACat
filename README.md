@@ -19,3 +19,10 @@
 ### [Shop Archives](https://dtacat.github.io/Collectibles/) will be constantly updated so you wont miss out on all the new collectables.
 
 ![Logo (40)](https://github.com/DTACat/DTACat/assets/141873540/df299036-463e-4603-9ff8-6f6958103cbf)
+
+## [Swap Cosmetics](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme)
+![Logo (52)](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme/assets/141873540/956bca4f-d82e-4ccd-a194-c778ffdd9c92)
+
+### [Swap Cosmetics](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme) allows you to swap one profile cosmetic with another on discord.
+
+![Logo (55)](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme/assets/141873540/a6da1e61-b52e-45c7-b85c-a6b666c58aee)
