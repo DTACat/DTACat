@@ -26,3 +26,10 @@
 ### [Swap Cosmetics](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme) allows you to swap one profile cosmetic with another on discord.
 
 ![Logo (55)](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme/assets/141873540/a6da1e61-b52e-45c7-b85c-a6b666c58aee)
+
+## [Discord wouldn't... Right?](https://github.com/DTACat/Discord-Wouldnt...Right)
+![Logo (57)](https://github.com/DTACat/DTACat/assets/141873540/d87fedb2-1a09-4be0-ad3c-73cc553b501b)
+
+### They couldn't possibly...
+
+![image](https://github.com/DTACat/DTACat/assets/141873540/a00754ba-aa35-4739-823f-a22266d5c6c6)
