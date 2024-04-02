@@ -4,6 +4,14 @@
 
 ### Here is a few projects I'm working on <3
 
+## [Just Effects And Decorations](https://github.com/DTACat/Just-Effects-And-Decorations)
+
+![Logo (66)](https://github.com/DTACat/DTACat/assets/141873540/c4e07fe9-6292-48d9-bac4-ee4b7de63965)
+
+### [Just Effects And Decorations](https://github.com/DTACat/Just-Effects-And-Decorations) is just like [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but allows other people to see any Discord Official Avatar Decorations And Profile Effects on your profile all for free!
+
+![Logo (67)](https://github.com/DTACat/DTACat/assets/141873540/72633974-1492-49fb-bbb3-af872432aac7)
+
 ## [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme)
 ![Logo (35)](https://github.com/DTACat/DTACat/assets/141873540/06616e9f-b23f-4e25-8322-f6e6bf6031be)
 
@@ -19,17 +27,3 @@
 ### [Shop Archives](https://dtacat.github.io/Collectibles/) will be constantly updated so you wont miss out on all the new collectables.
 
 ![Logo (40)](https://github.com/DTACat/DTACat/assets/141873540/df299036-463e-4603-9ff8-6f6958103cbf)
-
-## [Swap Cosmetics](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme)
-![Logo (52)](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme/assets/141873540/956bca4f-d82e-4ccd-a194-c778ffdd9c92)
-
-### [Swap Cosmetics](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme) allows you to swap one profile cosmetic with another on discord.
-
-![Logo (55)](https://github.com/DTACat/Swap-Cosmetics-Discord-Theme/assets/141873540/a6da1e61-b52e-45c7-b85c-a6b666c58aee)
-
-## [Discord wouldn't... Right?](https://github.com/DTACat/Discord-Wouldnt...Right)
-![Logo (57)](https://github.com/DTACat/DTACat/assets/141873540/d87fedb2-1a09-4be0-ad3c-73cc553b501b)
-
-### They couldn't possibly...
-
-![image](https://github.com/DTACat/DTACat/assets/141873540/a00754ba-aa35-4739-823f-a22266d5c6c6)
