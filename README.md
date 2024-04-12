@@ -6,11 +6,11 @@
 
 ## [Just Effects And Decorations](https://github.com/DTACat/Just-Effects-And-Decorations)
 
-![Logo (66)](https://github.com/DTACat/DTACat/assets/141873540/c4e07fe9-6292-48d9-bac4-ee4b7de63965)
+![Logo (78)](https://github.com/DTACat/DTACat/assets/141873540/f3c5c144-8ff3-4939-b264-29b694395ee9)
 
 ### [Just Effects And Decorations](https://github.com/DTACat/Just-Effects-And-Decorations) is just like [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but allows other people to see any Discord Official Avatar Decorations And Profile Effects on your profile all for free!
 
-![Logo (67)](https://github.com/DTACat/DTACat/assets/141873540/72633974-1492-49fb-bbb3-af872432aac7)
+![Logo (79)](https://github.com/DTACat/DTACat/assets/141873540/ee4d0e04-38e3-426f-a110-7e80cef896fa)
 
 ## [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme)
 ![Logo (35)](https://github.com/DTACat/DTACat/assets/141873540/06616e9f-b23f-4e25-8322-f6e6bf6031be)
