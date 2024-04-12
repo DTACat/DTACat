@@ -1,8 +1,4 @@
-![Logo (34)](https://github.com/DTACat/DTACat/assets/141873540/bd897d3f-3dba-4df6-ab75-9e57f9150464)
-
-### Hello! I'm DTACat a small content creator from New Zealand <3
-
-### Here is a few projects I'm working on <3
+![Logo (80)](https://github.com/DTACat/DTACat/assets/141873540/003f8c06-6c1a-4fa8-913e-df2467c44d44)
 
 ## [Just Effects And Decorations](https://github.com/DTACat/Just-Effects-And-Decorations)
 
