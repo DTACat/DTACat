@@ -1,6 +1,6 @@
 ![Logo (80)](https://github.com/DTACat/DTACat/assets/141873540/003f8c06-6c1a-4fa8-913e-df2467c44d44)
 
-## [Just Effects And Decorations](https://github.com/DTACat/Just-Effects-And-Decorations)
+## [Profiles Plus](https://github.com/DTACat/Discord-Profiles-Plus)
 
 ![ProSoon83](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/ProSoon83.png)
 
