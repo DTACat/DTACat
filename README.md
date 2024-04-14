@@ -2,11 +2,11 @@
 
 ## [Profiles Plus](https://github.com/DTACat/Discord-Profiles-Plus)
 
-![ProSoon83](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/ProSoon83.png)
+![PplusSoon2](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/PplusSoon2.png)
 
 ### [Profiles Plus](https://github.com/DTACat/Discord-Profiles-Plus) is just like [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but allows other people to see any Discord Official Avatar Decorations And Profile Effects on your profile AND MORE all for FREE!
 
-![ProSoonB83](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/ProSoonB83.png)
+![PplusSoon2B](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/PplusSoon2B.png)
 
 ## [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme)
 ![Logo (35)](https://github.com/DTACat/DTACat/assets/141873540/06616e9f-b23f-4e25-8322-f6e6bf6031be)
